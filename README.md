@@ -5,4 +5,4 @@ The Dating App Series aims to teach you how to build and deploy a Dating App fro
 If you want to see video tutorials about how to implement the dating app, please go to: https://www.youtube.com/playlist?list=PLCAZyR6zw2pyyjdifS_AFJf6HA4Ud8R4_
 
 
-[comment]: <> (あああああああああああ)fffffffffffffffff220523
+[comment]: <> (あああああああああああ)fffffffffffffffff220523-02
