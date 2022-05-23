@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">481971901746-v3voqie3odr7nsoap4m6ho8hv2mio5e0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">481971901746</string>
+    <string name="google_api_key" translatable="false">AIzaSyA57ZJuKKvELecufbk3Ubll3hSe8u68tpg</string>
+    <string name="google_app_id" translatable="false">1:481971901746:android:2f733e53339a452e0fb32b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA57ZJuKKvELecufbk3Ubll3hSe8u68tpg</string>
+    <string name="google_storage_bucket" translatable="false">flutter-dating-app-series.appspot.com</string>
+    <string name="project_id" translatable="false">flutter-dating-app-series</string>
+</resources>

@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/kowstyle/flutter_dating_app/BuildConfig.java
+ com.kowstyle.flutter_dating_app.BuildConfig
